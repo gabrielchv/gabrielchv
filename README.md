@@ -11,7 +11,9 @@
 
 ## About
 
-3 years shipping production web software (real-estate platform at Trular, AI email assistant at Meet Oscar), now focused on AI engineering. Completing a Technologist degree in Systems Analysis and Development at IFSP (Dec 2026). Finished Google Cloud's Professional Machine Learning Engineer learning path — 19 Skills Boost courses across MLOps, production ML systems, generative AI and responsible AI.
+3 years shipping production web software (real-estate platform at Trular, AI email assistant at Meet Oscar), now focused on AI engineering.
+
+Completing a Technologist degree in Systems Analysis and Development at IFSP (Dec 2026). Finished Google Cloud's Professional Machine Learning Engineer learning path — 19 Skills Boost courses across MLOps, production ML systems, generative AI and responsible AI.
 
 ## Tech stack
 
