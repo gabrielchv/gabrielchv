@@ -2,6 +2,13 @@
 
 **AI Engineer** — I build LLM-powered products that ship: structured output, streaming, retrieval — and I own the whole path from interface to deployment on Google Cloud.
 
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)](https://www.python.org/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)](https://nextjs.org/)
+[![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
+[![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?logo=googlecloud&logoColor=white)](https://cloud.google.com/)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)](https://www.docker.com/)
+
 3 years shipping production web software (real-estate platform at Trular, AI email assistant at Meet Oscar), now focused on AI engineering. Completing a Technologist degree in Systems Analysis and Development at IFSP (Dec 2026). Finished Google Cloud's Professional Machine Learning Engineer learning path — 19 Skills Boost courses across MLOps, production ML systems, generative AI and responsible AI.
 
 **Python · TypeScript · Gemini / OpenAI / DeepSeek APIs · React / Next.js · FastAPI · GCP (Cloud Run, Terraform) · Docker**
