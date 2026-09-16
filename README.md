@@ -29,6 +29,8 @@
 
 ## Contact
 
-[gazerah.com](https://gazerah.com) · [LinkedIn](https://www.linkedin.com/in/gabriel-chv) · gabriel.chaves.tech@gmail.com
+- **Website** — [gazerah.com](https://gazerah.com)
+- **LinkedIn** — [linkedin.com/in/gabriel-chv](https://www.linkedin.com/in/gabriel-chv)
+- **Email** — [gabriel.chaves.tech@gmail.com](mailto:gabriel.chaves.tech@gmail.com)
 
 Open to remote AI engineering roles — Brazil and international.
