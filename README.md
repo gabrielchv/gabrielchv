@@ -22,9 +22,9 @@
 | Project | Description |
 | --- | --- |
 | **[AutoApply](https://github.com/gabrielchv/AutoApply)** | Browser extension that fills job application forms through an LLM, designed so the model cannot invent facts: schema-validated fill plans, answers anchored to your profile, no code path submits. Local-first, bring your own key. |
-| **[InquilinoIA](https://github.com/gabrielchv/inquilino-ia)** | Citation-grounded RAG over Brazilian tenancy law. Every claim is verified in code against the statute's verbatim text before it's shown — not taken on the model's word. |
-| **[Obsidian Chatter](https://github.com/gabrielchv/Obsidian-Chatter)** | Private RAG chat over an Obsidian vault: hybrid retrieval (e5 + BM25), git-versioned write-back, tool-use agent loop with on-demand skills. |
-| **[Task Helper AI](https://github.com/gabrielchv/task-organizer)** | Voice-driven task orchestrator on Gemini multimodal input, offline Vosk wake word. [Live](https://task-organizer.gazerah.com). |
+| **[inquilino-ia](https://github.com/gabrielchv/inquilino-ia)** | Citation-grounded RAG over Brazilian tenancy law. Every claim is verified in code against the statute's verbatim text before it's shown — not taken on the model's word. |
+| **[Obsidian-Chatter](https://github.com/gabrielchv/Obsidian-Chatter)** | Private RAG chat over an Obsidian vault: hybrid retrieval (e5 + BM25), git-versioned write-back, tool-use agent loop with on-demand skills. |
+| **[task-organizer](https://github.com/gabrielchv/task-organizer)** | Voice-driven task orchestrator on Gemini multimodal input, offline Vosk wake word. [Live](https://task-organizer.gazerah.com). |
 | **[bookcerto](https://github.com/gabrielchv/bookcerto)** | Multi-tenant scheduling SaaS with a database-level booking-overlap guarantee, BullMQ jobs and an SSE live dashboard. |
 
 ## Contact
