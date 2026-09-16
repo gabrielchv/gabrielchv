@@ -9,6 +9,13 @@
 [![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?logo=googlecloud&logoColor=white)](https://cloud.google.com/)
 [![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)](https://www.docker.com/)
 
+## Contents
+
+- [About](#about)
+- [Tech stack](#tech-stack)
+- [Selected projects](#selected-projects)
+- [Contact](#contact)
+
 ## About
 
 3 years shipping production web software (real-estate platform at Trular, AI email assistant at Meet Oscar), now focused on AI engineering.
