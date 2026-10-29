@@ -39,7 +39,7 @@ Observability, accessibility and CI are part of the build, not an afterthought: 
 | Project | Description |
 | --- | --- |
 | **[caderno](https://github.com/gabrielchv/caderno)** | Real-time collaborative notebook — presence, remote cursors, versioned document sync in a pnpm monorepo. OpenTelemetry, Prometheus, Sentry, Playwright + axe accessibility, Lighthouse budgets. |
-| **[bookcerto](https://github.com/gabrielchv/bookcerto)** | Multi-tenant scheduling SaaS: database-level booking-overlap guarantee, BullMQ job queue, SSE live dashboard. Full-stack web, correctness first. |
+| **[bookcerto](https://github.com/gabrielchv/bookcerto)** | Multi-tenant scheduling SaaS: database-level booking-overlap guarantee, BullMQ job queue, SSE live dashboard. Full-stack web, correctness first. [Live demo](https://bookcerto-e77phu6mxq-uc.a.run.app/booking/aurora). |
 | **[jobpipe](https://github.com/gabrielchv/jobpipe)** | Java 21 + Spring Boot application tracker: server-enforced status state machine, JWT access/refresh, Flyway, STOMP WebSocket reminders, Vue 3 frontend. |
 | **[status-page](https://github.com/gabrielchv/status-page)** | Self-hosted uptime monitoring: scheduled checks, automatic incident state machine, public SSE status page, Drizzle + Postgres, server-side sessions. |
 | **[omnistore](https://github.com/gabrielchv/omnistore)** | Omnichannel microservices: NestJS services over RabbitMQ, Strapi CMS catalog, SonarCloud quality gate, Postman/Newman API tests in CI. |
