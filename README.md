@@ -2,13 +2,15 @@
 
 **Software Engineer** — full-stack web developer who ships production products end to end: interface, API design, and cloud deployment — and uses AI as a force multiplier, not a crutch.
 
-[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)](https://www.python.org/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)](https://www.python.org/)
+[![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)](https://openjdk.org/)
 [![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white)](https://react.dev/)
 [![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)](https://nextjs.org/)
-[![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
+[![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?logo=springboot&logoColor=white)](https://spring.io/)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 [![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?logo=googlecloud&logoColor=white)](https://cloud.google.com/)
+[![Terraform](https://img.shields.io/badge/Terraform-7B42BC?logo=terraform&logoColor=white)](https://www.terraform.io/)
 [![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)](https://www.docker.com/)
 
 ## Contents
@@ -24,19 +26,29 @@
 
 Completing a Technologist degree in Systems Analysis and Development at IFSP (Dec 2026). Finished Google Cloud's Professional Machine Learning Engineer learning path — 19 Skills Boost courses across MLOps, production ML systems, generative AI and responsible AI.
 
+I build in two ecosystems on purpose: **TypeScript/Node** for most web work, and **Java/Spring Boot** where the backend wants a sturdier runtime. Both are backed by shipped, tested, CI-gated projects below.
+
 ## Tech stack
 
-**Python · TypeScript · React / Next.js · FastAPI · PostgreSQL · GCP (Cloud Run, Terraform) · Docker — with LLM APIs (Gemini / OpenAI / DeepSeek) applied where they genuinely fit.**
+**TypeScript · Python · Java — React / Next.js / Vue · Node / NestJS / FastAPI · Spring Boot · PostgreSQL · GCP (Cloud Run, Terraform) · Docker**
+
+Observability, accessibility and CI are part of the build, not an afterthought: OpenTelemetry, Prometheus, Sentry, Playwright, axe, Lighthouse budgets, SonarCloud, and keyless deploys via Workload Identity Federation.
 
 ## Selected projects
 
 | Project | Description |
 | --- | --- |
+| **[caderno](https://github.com/gabrielchv/caderno)** | Real-time collaborative notebook — presence, remote cursors, versioned document sync in a pnpm monorepo. OpenTelemetry, Prometheus, Sentry, Playwright + axe accessibility, Lighthouse budgets. |
 | **[bookcerto](https://github.com/gabrielchv/bookcerto)** | Multi-tenant scheduling SaaS: database-level booking-overlap guarantee, BullMQ job queue, SSE live dashboard. Full-stack web, correctness first. |
+| **[jobpipe](https://github.com/gabrielchv/jobpipe)** | Java 21 + Spring Boot application tracker: server-enforced status state machine, JWT access/refresh, Flyway, STOMP WebSocket reminders, Vue 3 frontend. |
+| **[status-page](https://github.com/gabrielchv/status-page)** | Self-hosted uptime monitoring: scheduled checks, automatic incident state machine, public SSE status page, Drizzle + Postgres, server-side sessions. |
+| **[omnistore](https://github.com/gabrielchv/omnistore)** | Omnichannel microservices: NestJS services over RabbitMQ, Strapi CMS catalog, SonarCloud quality gate, Postman/Newman API tests in CI. |
+| **[spring-rabbit-saga](https://github.com/gabrielchv/spring-rabbit-saga)** | Choreographed saga across Java/Kotlin Spring Boot services on RabbitMQ, deployed to Cloud Run. |
 | **[AutoApply](https://github.com/gabrielchv/AutoApply)** | Browser extension that fills job application forms: schema-validated fill plans, answers anchored to your profile, no code path submits. The model does the typing; the guarantees are engineering. |
-| **[task-organizer](https://github.com/gabrielchv/task-organizer)** | Voice-driven task orchestrator with offline wake word and multimodal input. [Live](https://task-organizer.gazerah.com). |
 | **[inquilino-ia](https://github.com/gabrielchv/inquilino-ia)** | RAG over Brazilian tenancy law — every claim verified in code against the statute's verbatim text before it's shown. |
 | **[Obsidian-Chatter](https://github.com/gabrielchv/Obsidian-Chatter)** | Private RAG chat over an Obsidian vault: hybrid retrieval, git-versioned write-back, tool-use agent loop. |
+| **[task-organizer](https://github.com/gabrielchv/task-organizer)** | Voice-driven task orchestrator with offline wake word and multimodal input. |
+| **[lastro](https://github.com/gabrielchv/lastro)** | Deterministic groundedness metrics for Portuguese RAG — no LLM judge in the loop. |
 
 ## Contact
 
@@ -44,4 +56,4 @@ Completing a Technologist degree in Systems Analysis and Development at IFSP (De
 - **LinkedIn** — [linkedin.com/in/gabriel-chv](https://www.linkedin.com/in/gabriel-chv)
 - **Email** — [gabriel.chaves.tech@gmail.com](mailto:gabriel.chaves.tech@gmail.com)
 
-Open to remote software engineering roles — Brazil and international.
+Open to software engineering roles — Brazil and international remote.
